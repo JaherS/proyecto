@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ModelCore/ModelCore.iml" filepath="$PROJECT_DIR$/ModelCore/ModelCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Proyectos2.iml" filepath="$PROJECT_DIR$/.idea/Proyectos2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/srvcategoria/srvcategoria.iml" filepath="$PROJECT_DIR$/srvcategoria/srvcategoria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/srvpago/srvpago.iml" filepath="$PROJECT_DIR$/srvpago/srvpago.iml" />
+    </modules>
+  </component>
+</project>
